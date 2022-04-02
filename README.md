@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @HajpCoding
-- 👀 I’m interested in osu!game, graphic design, coding, new technologies.
+- 👀 I’m interested in rhythm games - mainly in [https://osu.ppy.sh/home (osu)] , graphic design, coding, new technologies.
 - 🌱 I’m currently learning Python language, some HTML stuff.
 - 📫 How to reach me: Discord: Hajp#2283
