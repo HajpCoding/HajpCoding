@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @HajpCoding
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-HajpCoding/HajpCoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in osu!game, graphic design, coding, new technologies.
+- 🌱 I’m currently learning Python language, some HTML stuff.
+- 📫 How to reach me: Discord: Hajp#2283
